@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+#hoverBox {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  margin-top: 10px;
+  text-align: center;
+  line-height: 100px;
+  transition: background-color 0.3s;
+}
+
+.slide {
+  display: none;
+}
+.slide.show {
+  display: block;
+}
+.tab-content {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+.hidden {
+  display: none;
+}
+.hint {
+  color: red;
+  font-size: 0.8rem;
+}
