@@ -1,0 +1,13 @@
+
+Feature	Status
+Button click event	✅
+Hover effect	✅
+Keypress detection	✅
+Double-click / long press	✅
+Button that changes text/color	✅
+Image gallery/slideshow	✅
+Tabs or accordion	✅
+Animation (CSS or JS)	✅ (CSS transitions)
+Form: required, email, password	✅
+Real-time password validation	✅
+
